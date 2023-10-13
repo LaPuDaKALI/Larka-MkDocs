@@ -39,7 +39,6 @@ Lalu setelah anda mengkonfigurasi DHCP Server selanjutnya anda harus restart lay
 ```
 service isc-dhcp-server restart.
 ```
-![Image title](img/restart.png)
 
 Lalu yang terakhir anda dapat memulai pengujian dengan menghubungkan perangkat ke jaringan dan memeriksa apakah client menerima alamat IP dari server DHCP
 

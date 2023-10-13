@@ -1,7 +1,7 @@
 site_name: Larka Project
-site_url: https://DHCPProject.com
-
 theme:
+  logo: img/images.png
+
   features:
     - content.code.copy
     - navigation.tabs
@@ -12,16 +12,11 @@ theme:
     - search.highlight
 
   name: material
- 
+
   palette:
    primary: red
 
-  markdown_extensions:
-  - tables
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-
-   
-
-
+extra:
+  social:
+  - icon: fontawesome/brands/instagram
+    link: https://www.instagram.com/larka1791/?hl=id
