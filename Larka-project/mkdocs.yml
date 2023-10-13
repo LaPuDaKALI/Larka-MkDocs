@@ -1,0 +1,27 @@
+site_name: Larka Project
+site_url: https://DHCPProject.com
+
+theme:
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - navigation.sevtions
+    - search.suggest
+    - search.highlight
+
+  name: material
+ 
+  palette:
+   primary: red
+
+  markdown_extensions:
+  - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+   
+
+
